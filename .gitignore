@@ -1,0 +1,52 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+out/
+
+# JetBrains IDEs Workspace
+*.iws
+*.ipr
+*.ids
+
+# Sonstige JetBrains-spezifische Dateien
+# (z.B. für DataGrip, PyCharm, WebStorm, etc.)
+.idea_modules/
+
+# macOS system files
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment files
+.env
+.env.*
+
+# Log files
+*.log
+
+# Misc
+*.swp
+*.swo
+*~
